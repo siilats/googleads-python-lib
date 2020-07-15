@@ -338,6 +338,13 @@ googleads.oauth2.GoogleAccessTokenClient.CreateHttpHeader	googleads.oauth2.Googl
 googleads.oauth2.GoogleOAuth2Client._USER_AGENT	googleads.oauth2.GoogleOAuth2Client-class.html#_USER_AGENT
 googleads.oauth2.GoogleOAuth2Client._GOOGLE_OAUTH2_ENDPOINT	googleads.oauth2.GoogleOAuth2Client-class.html#_GOOGLE_OAUTH2_ENDPOINT
 googleads.oauth2.GoogleAccessTokenClient.__init__	googleads.oauth2.GoogleAccessTokenClient-class.html#__init__
+googleads.oauth2.GoogleCredentialsClient	googleads.oauth2.GoogleCredentialsClient-class.html
+googleads.oauth2.GoogleOAuth2Client._TOKEN_URL	googleads.oauth2.GoogleOAuth2Client-class.html#_TOKEN_URL
+googleads.oauth2.GoogleCredentialsClient.CreateHttpHeader	googleads.oauth2.GoogleCredentialsClient-class.html#CreateHttpHeader
+googleads.oauth2.GoogleOAuth2Client._USER_AGENT	googleads.oauth2.GoogleOAuth2Client-class.html#_USER_AGENT
+googleads.oauth2.GoogleCredentialsClient.Refresh	googleads.oauth2.GoogleCredentialsClient-class.html#Refresh
+googleads.oauth2.GoogleOAuth2Client._GOOGLE_OAUTH2_ENDPOINT	googleads.oauth2.GoogleOAuth2Client-class.html#_GOOGLE_OAUTH2_ENDPOINT
+googleads.oauth2.GoogleCredentialsClient.__init__	googleads.oauth2.GoogleCredentialsClient-class.html#__init__
 googleads.oauth2.GoogleOAuth2Client	googleads.oauth2.GoogleOAuth2Client-class.html
 googleads.oauth2.GoogleOAuth2Client._TOKEN_URL	googleads.oauth2.GoogleOAuth2Client-class.html#_TOKEN_URL
 googleads.oauth2.GoogleOAuth2Client._GOOGLE_OAUTH2_ENDPOINT	googleads.oauth2.GoogleOAuth2Client-class.html#_GOOGLE_OAUTH2_ENDPOINT
