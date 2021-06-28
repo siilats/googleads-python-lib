@@ -64,5 +64,5 @@ def main(client):
 
 
 if __name__ == '__main__':
-  adwords_client = adwords.AdWordsClient.LoadFromStorage()
+  adwords_client = adwords.AdWordsClient.LoadFromStorage('googleads_hear.yaml')
   main(adwords_client)
